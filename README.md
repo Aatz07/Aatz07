@@ -39,8 +39,6 @@
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
 
-![GitHub Snake Light](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg#gh-dark-mode-only)
 
 
 
