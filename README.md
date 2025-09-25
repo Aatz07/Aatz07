@@ -1,4 +1,5 @@
-## 👋 Hi, I'm Aatiq Ali
+<h1 align="center">Hi 👋, I'm Aatiq Ali</h1>
+<h3 align="center">UI Developer • Designer • Frontend Developer • Autonomous Driving Enthusiast • Database Explorer</h3>
 
 <!--
 **Aatz07/Aatz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
